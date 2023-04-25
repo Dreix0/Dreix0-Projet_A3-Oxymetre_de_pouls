@@ -1,0 +1,26 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=mesure1\mesure1.stp
+Dependencies=
+
+[Project1]
+Filename=mesure2\mesure2.stp
+Dependencies=
+
+[Project2]
+Filename=mesure3\mesure3.stp
+Dependencies=
+
+[Project3]
+Filename=mesure4\mesure4.stp
+Dependencies=
+[Options]
+ActiveProject=mesure4
+ActiveConfig=Debug
+AddSortedElements=1
+[.St7McuIcdConf]
+McuName=STM8S105K4
